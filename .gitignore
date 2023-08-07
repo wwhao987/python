@@ -1,0 +1,15 @@
+
+# files
+*.DS_Store
+test.py
+rewrite.py
+Exercise-class.md
+Exercise-home.md
+
+# folder
+__pycache__
+test
+homework
+Practises
+BP
+Homework
